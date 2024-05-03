@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melissa</h1>
-<h3 align="center">I'm a passionate frontend developer.</h3>
+<h3 align="center">I'm a passionate FullSTack developer.</h3>
 
-- 💬 Ask me about **Html, Css and JavaScript.**
+- 💬 Ask me about **Html, Css and JavaScript, React, Ruby On Rails, Ruby, Vue and Laravel.**
 
 - 📫 How to reach me **melissa.ramirez0pleitez@gmail.com**
 
