@@ -10,7 +10,7 @@
 ---
 
 - 💬 Ask me about **Ruby on Rails, NestJS, React, TypeScript, Zustand, REST APIs, and full-stack architecture**
-- 🌱 Currently learning **AI-assisted development & advanced system design**
+- 🌱 Currently learning **how to integrate AI into real-world projects and modern development workflows**
 - 📫 How to reach me: **melissa.ramirez0pleitez@gmail.com**
 
 ---
@@ -22,6 +22,9 @@
 </a>
 <a href="https://www.hackerrank.com/@melissa_ramirez2" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+</a>
+<a href="https://www.upwork.com/freelancers/~0130feebfe9ac7dfb3?mp_source=share" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/upwork.svg" height="30" width="40" />
 </a>
 </p>
 
