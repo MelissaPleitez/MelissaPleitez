@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b6d1c8b9-c963-4523-be5e-9272aa91abdf" alt="Melissa Ramírez Pleitez - Full Stack Software Engineer" width="100%" />
+  <img width="1376" height="768" alt="Melissa Ramírez Pleitez - Full Stack Software Engineer" src="https://github.com/user-attachments/assets/fec735ab-d21c-488c-bcd7-627dbf98c3ce" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Melissa Pleitez👩🏻‍💻</h1>
