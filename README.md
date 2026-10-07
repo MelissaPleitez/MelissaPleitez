@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Melissa Pleitez👩🏻‍💻</h1>
-<h3 align="center">Full-Stack Developer focused on scalable web applications</h3>
+<h3 align="center">Software Engineer focused on scalable applications</h3>
 
 <p align="center">
 🚀 NodeJS/NestJS • React • TypeScript • Zustand • Ridus • AWS ECS
