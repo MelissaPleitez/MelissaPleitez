@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b6d1c8b9-c963-4523-be5e-9272aa91abdf" alt="Melissa Ramírez Pleitez - Full Stack Software Engineer" width="100%" />
+</p>
+
 <h1 align="center">Hi there 👋, I'm Melissa Pleitez👩🏻‍💻</h1>
 <h3 align="center">Software Engineer focused on scalable applications</h3>
 
