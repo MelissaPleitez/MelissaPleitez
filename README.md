@@ -7,7 +7,7 @@
 <h3 align="center">Software Engineer focused on scalable applications</h3>
 
 <p align="center">
-🚀 NodeJS/NestJS • React • TypeScript • Zustand • Ridus • AWS ECS
+🚀 NodeJS/NestJS • React • TypeScript • Ridus • AWS ECS
 💡 Building real-world production-grade web and mobile applications for fintech, telecommunications, and logistics companies. 
 🤖 Exploring AI-assisted development workflows
 </p>
