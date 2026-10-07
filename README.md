@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Melissa</h1>
+<h1 align="center">Hi there 👋, I'm Melissa Pleitez👩🏻‍💻</h1>
 <h3 align="center">Full-Stack Developer focused on scalable web applications</h3>
 
 <p align="center">
-🚀 Ruby on Rails • NestJS • React • TypeScript • Zustand  
-💡 Building real-world SaaS, mobile apps & GPS-based solutions  
+🚀 NodeJS/NestJS • React • TypeScript • Zustand • Ridus • AWS ECS
+💡 Building real-world production-grade web and mobile applications for fintech, telecommunications, and logistics companies. 
 🤖 Exploring AI-assisted development workflows
 </p>
 
 ---
 
-- 💬 Ask me about **Ruby on Rails, NestJS, React, TypeScript, Zustand, REST APIs, and full-stack architecture**
+- 💬 Ask me about **NodeJS, NestJS, React, TypeScript, Zustand, REST APIs, and full-stack architecture**
 - 🌱 Currently learning **how to integrate AI into real-world projects and modern development workflows**
 - 📫 How to reach me: **melissa.ramirez0pleitez@gmail.com**
 
@@ -33,7 +33,6 @@
 <h3 align="left">Tech Stack:</h3>
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
